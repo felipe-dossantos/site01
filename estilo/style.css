@@ -57,7 +57,7 @@ header {
     padding-top: 30px;
 }
 header > p{
-    color: white;
+    color: black;
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
